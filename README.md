@@ -34,3 +34,16 @@ The mobile application is developed using Codename One, consuming Symfony 5 serv
 
 ![Admin Screenshots](https://github.com/KlaiRayen/AMENA-WEB/assets/107888893/913f1ed2-d45c-4719-8cec-93186363bda0)
 ![Admin Screenshots](https://github.com/KlaiRayen/AMENA-WEB/assets/107888893/51b86b28-5479-4395-ab2a-8b3ae1a39744)
+
+[contributors-shield]: https://img.shields.io/github/contributors/rayen-klai/AMENA-DESKTOP.svg?style=for-the-badge
+[contributors-url]: https://github.com/rayen-klai/AMENA-DESKTOP/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/rayen-klai/AMENA-DESKTOP.svg?style=for-the-badge
+[forks-url]: https://github.com/rayen-klai/AMENA-DESKTOP/network/members
+[stars-shield]: https://img.shields.io/github/stars/rayen-klai/AMENA-DESKTOP.svg?style=for-the-badge
+[stars-url]: https://github.com/rayen-klai/AMENA-DESKTOP/stargazers
+[issues-shield]: https://img.shields.io/github/issues/rayen-klai/AMENA-DESKTOP.svg?style=for-the-badge
+[issues-url]: https://github.com/rayen-klai/AMENA-DESKTOP/issues
+[license-shield]: https://img.shields.io/github/license/rayen-klai/AMENA-DESKTOP.svg?style=for-the-badge
+[license-url]: https://github.com/rayen-klai/AMENA-DESKTOP/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/rayen-klai-910086244
