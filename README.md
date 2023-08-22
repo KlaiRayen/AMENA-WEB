@@ -1,3 +1,8 @@
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 # AMENA
 
 **Amena** is a comprehensive project that encompasses a website, a desktop application, and a mobile application. This project is being undertaken as part of the first cycle of the computer engineering program at the ESPRIT Private Higher School of Engineering and Technology.
